@@ -4,8 +4,7 @@
   "description": "Node API created using express server for handling and routing HTTP requests prometheus",
   "main": "index.ts",
   "scripts": {
-    "start": "node index.ts",
-    "dev": "nodemon index.ts",
+    "start": "nodemon index.ts",
     "eslint": "eslint 'src/**/*.ts'",
     "eslint:fix": "eslint --fix 'src/**/*.ts'",
     "test": "jest"
