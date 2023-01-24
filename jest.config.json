@@ -1,0 +1,9 @@
+{
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "coveragePathIgnorePatterns": [
+    "/node_modules/"
+  ],
+  "bail": 1,
+  "verbose": true
+}
